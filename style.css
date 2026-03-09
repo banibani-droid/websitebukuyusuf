@@ -1,5 +1,5 @@
 body {
-    background : linear-gradient(135deg,#ffffff, #f6fbff,#f5f5f5,#ffffff,#faffff, #ffffff, #E6F2FF );
+    background : linear-gradient(135deg,#6AB7FF, #1E90FF ,#00E5FF, #E6F2FF );
     font-family: "Eternal";
     color: #ffffff;
     margin: "20px";
@@ -254,4 +254,5 @@ background-color: #2980b9;
             color: #666;
             line-height: 1.6;
         }
+
 
